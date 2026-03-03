@@ -83,7 +83,7 @@ const petalsOverlay = document.getElementById("petalsOverlay");
 const sparklesOverlay = document.getElementById("sparklesOverlay");
 
 // Background music
-const backgroundMusic = new Audio("music.mp3");
+const backgroundMusic = new Audio("music.mp4");
 backgroundMusic.loop = true;
 backgroundMusic.volume = 0.5;
 
